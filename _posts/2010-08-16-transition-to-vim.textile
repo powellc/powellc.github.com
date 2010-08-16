@@ -1,0 +1,24 @@
+---
+layout: post
+title: Transition to Vim 
+---
+
+h1. {{ page.title }}
+
+p(meta). 16 August 2010 - Castine, Maine
+
+A recent blog post from an ex-Engine Yard employee set the "blogosphere" (god I hate that word) afire recently as concerns the use of Emacs archrival, Vim, the improved Vi text editor.
+I will admit to being easily blown by the prevailing winds, and I mothballed Textmate and set about to learn Vim for about the 3rd time. A while back I had decided Emacs was for me. I used it for about a year until the novelty wore off and I wanted to get work done. I switched back to Textmate and got lazy. I had been using it as a glorified notepad for a while. And then Ezra's post showed up.
+
+Thankfully this bug bit me at a time when I am also crazy interested in workflow. I am in the process of formalizing some side projects into an actual side business designing websites and providing small businesses with IT support. So now I have to manage website release iterations, track tickets, squash bugs and keep track of an ever-growing to-do list.
+
+So there was no better time to learn a better way to use a text editor that can be launched no matter where I find myself, Mac, GNU/Linux or Windows. Not only that, but it is crazy powerful. Just about anything you could do with Textmate you can do with Vim, and mostly sans-mouse. This has also led to me transferring my work over to other anti-mouse tools like xmonad instead of Gnome and all it's cruft.
+
+So between Vim, xmonad and git to manage my projects and documents, I think I have a pretty good workflow going on right now. I still need to come up with a slick way to manage projects and tickets. I have an install of FengOffice going right now, but it doesn't play well with much and I'm sure it's too heavy weight. I just need something that's easy for clients to log in and submit tickets with.
+
+--
+
+Discuss this post on Twitter with #powellc-vim
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>
+
