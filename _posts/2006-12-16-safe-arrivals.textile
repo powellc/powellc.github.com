@@ -1,0 +1,21 @@
+---
+layout: post
+title: Safe Arrivals 
+---
+
+h1. {{ page.title }}
+
+p(meta). 16 December 2006 - Besançon, France
+
+Emma’s sister arrived here safely from Scotland a week or so ago, and we began to discover how big our apartment truly is (the photos on Flickr are deceptive). But, on the plus side we also discovered the natural beauty that is Raclette. Well it’s not so natural, but it is hot cheese drizzled over boiled potatoes with delicious meats. It’s kind of like Fondue in many respects.
+
+Anyway, Emma and I stocked up on the above mentioned cheese, a whopping 2 kilos of the stuff (if it were cocaine we’d be millionaires), and also a lot of meat. At the deli counter, the woman, surprised by our previous request of 2 kilos of salami thought we wanted 4 kilos of smoked ham! Imagine our surprise when she just kept shaving off more and more and more … Needless to say we only wanted a quarter kilo, but had trouble saying as much. We ended up with nearly a kilo of three types of meat, which should tide us over for a while. Especially considering that Emma and I are both trying to eat more vegetarian … Ugh.
+
+We have friends visiting us for Christmas and they arrive on Wednesday. That’s the other safe arrival, or rather a hope that everything goes smoothly for them. We can’t wait to show them the Christmas markets which are everywhere in France. Maybe even jump up to Freiburg, Germany if the tickets are too expensive. Yes, it will be a good Christmas.
+
+--
+
+Discuss this post on Twitter with #powellc-safe
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>
+
