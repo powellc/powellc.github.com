@@ -57,6 +57,11 @@ table {
 /*
 /*****************************************************************************/
 
+#home { 
+  padding:15px;
+  background:ffe;
+}
+
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
