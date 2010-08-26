@@ -1,0 +1,25 @@
+---
+layout: post
+title: Revelations
+chapter: France
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 28 March 2007 - {{ page.location }}
+
+What’s this?  Another post, so soon!?  Perhaps this is a new format for Kapowell?  Shorter, more frequent posts?  We’ll see.  In the meantime, I have another grand observation.
+
+The Franche-Comte has been good to me and Emma.  It is a very temperate, chill area of France which gets sometimes as cold as the Midwest (but not often).  It is heavy on the agriculture, and as such has fantastic regional cheeses which, if we had wound up in any other part of the country, we probably wouldn’t have gone out our way to try.  More and more it is beginning to feel like home.
+
+Now, look back quickly at a conversation I had with a subsitute teacher last week.  I asked her if she was originally from around here.  That question didn’t seem important when we first got here, but now seems like the first quesiton to ask a new person you meet in France.  There are some profound differences between people from Nice, people from Dole and people from Paris.  So Virginie answers that, yes, she is Comtoise, though she spent the last year in Northern England.  I commented on how much I liked the area, how peaceful and beautiful it is and she laughed and said, with her nearly-rolling Comtoise ‘R’, that she really enjoyed it too.  Then it hit me like a pillowcase full of doorknobs: Wisconsin == Franche-Comte!  ‘==’ is a computer term that, because ‘=’ is often used to assign values to variables ( x = 4 ), means ‘equal to.’  That’s right.  Somehow, the people in the French government managed to put us in a very similar region to where we had just come from.  Whether this is an accident or not is up for debate (there are an awful lot of assistants from the Midwest here …), but one thing is for sure, we are actually living in the Wisconsin of France.
+
+--
+
+Discuss this post on Twitter with #kapowell-rev
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

@@ -1,0 +1,23 @@
+---
+layout: post
+title: Morocco?
+chapter: France
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 07 February 2007 - {{ page.location }}
+
+So we’re thinking about paying a visit to Morocco for our Winter Break (which, given the weather around here lately feels more like it will be a spring break) at the end of February.  Pretty exciting stuff.  My sister, who is visiting next week is going to bring us a book on it and then it’s off to Fez or Marrakesh!
+
+Also a little pointer for this whole online journal (or blog ~shutter~ if you must) thing, check out “Google Reader”:http://www.google.com/reader for a nice online feed reader.  You can then stop actually visiting sites and have them just land in your lap.
+
+--
+
+Discuss this post on Twitter with #kapowell-morocco
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

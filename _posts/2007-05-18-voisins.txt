@@ -1,0 +1,41 @@
+---
+layout: post
+title: Voisins
+chapter: France
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 18 May 2007 - {{ page.location }}
+
+God bless neighbors.  I think there was something written in the Bible about the importance of good neighbors, or maybe that was on the commandments … in which case I suppose it’s trying to ward off bad neighbors.  Well, whatever the case, Emma and I have been encountering one piece of bad news after another, so it seems only fitting that all the good news should come piled up on our last few days in Besancon and France.
+
+First, the two pieces of bad news.  Emma and I are flying home via Dublin.  The cheapest fares to the States are out of Ireland, which makes sense, and on Tuesdays.  The cheapest fare we could find to get us to Dublin from France is out of Grenoble, of all places, for tomorrow on Ryanair.  Now, we’ve flown easyjet before, but not Ryanair, and we certainly didn’t have as much luggage when we flew from Rome to Basel.  I’d heard that the limit on Ryanair’s checked baggage was 15 kilos per bag, quite a bit lighter than the 50 lbs allowed by most domestic carriers in the States.  Well, upon further inspection, Ryanair only allows 15 kilos PER-PERSON!  Shit.  Each kilo which goes over that is an extra 8 euros.  Let’s see, that puts our baggage in at about 300 euros.  These budget airlines do not cater to people on big trips …
+
+So that was some hard news, but not to worry, our landlord said he was interested in buying all our furniture off of us and renting a furnished apartment in the future.  That would be an extra 600 euros, plenty to pay for our luggage.
+
+Enter Monday.  Our landlord shows up to talk about some of the end of the lease things: last payment, electric bill, actual check-out date.  He shows up to this meeting with a potential tenant who takes a look around and decides he doesn’t want the furniture.  Wait, what was that?  I didn’t quite hear you.  We’re leaving at the end of the week, and you’ve decided you don’t want the place furnished, rather you want us to get our stuff out in six days so that the apartment is as clean as we found it.  Well fuck me.
+
+So two huge pieces of hold-your-head-in-hands-and-cry bad news.  What can you do but make posters, put them up around town and pray that they work quickly, very quickly.  Of course, Thursday is a bank holiday, so not a lot of people are going to be out and about looking for used furniture …   Since it really was all we could do, I thought that perhaps someone in our building would want to buy things and stuck a poster down at the bottom of the stairwell.  We wait a couple hours and one of neighbors comes a-knocking.  “Do you still have that chair for 30 euros?”
+
+“Um, sure.”
+
+“Excellent, I’ll be back with cash around … is 5 good?”
+
+“Fantastic.”
+
+This was on Wednesday.  The next day, a bank holiday, mind you, a couple other neighbors stop in to inquire about the couch and maybe even the table and chairs.  At this point our one poster has succeeded beyond our wildest dreams.  In fact, nintey per cent of our furniture hasn’t even left the building.  We didn’t get as much money for it as we would have from our landlord, but this was a FIRE (sale), so we expected to take a loss and really just wanted someone, anyone to come take our stuff.  
+
+Only one thing was sold to non-voisins.  Our bathroom scale was sold to a nice guy from the CLA in town (a center for applied languages).  He haggled me down to four euros from five, so there was even some comedy after the tragedy.
+
+We’ll be back in the States before our next post.  So if this space stays stagnant for more than a week or so, you should probably assume the worst.  Thanks to everyone who’s followed us through our adventures in France, and I promise to have some more wrap-up appropriate material once we’re safe and sound in Chicago.
+
+--
+
+Discuss this post on Twitter with #kapowell-voi
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

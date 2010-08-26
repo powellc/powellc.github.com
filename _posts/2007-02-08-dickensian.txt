@@ -1,0 +1,25 @@
+---
+layout: post
+title: Dickensian
+chapter: France
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 08 January 2007 - {{ page.location }}
+
+We entered the Eternal City via Roma Termini, a modern-architecture afflicted train station that, whether by poor planning or beautiful civil engineering greets the weary traveller with not a garden or fountain or some such frivolity, but a massive slab of pavement full of buses and no discernably pedestrian-safe way to navigate through them.  If I had been hoping to live in this city, I believe I would have just gotten back on the train to Florence, but instead the sights are my goal, and I don’t have to like the city to enjoy some of the greatest achievments in human history.
+
+As our visit landed us near New Year’s Eve without us realizing, sleeping arrangments were difficult to come by.  After following a recommendation from a full hostel, we arrived at the Stargate Hotel which proved to be not nearly as seedy as it looked, thank god.
+
+_And that, my friends, is all I’ve got time for right now.  More embittered 19th century travelogue-esque writing may follow, who knows?_
+
+--
+
+Discuss this post on Twitter with #kapowell-xx
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

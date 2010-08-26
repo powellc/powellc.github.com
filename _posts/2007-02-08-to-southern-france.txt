@@ -1,0 +1,25 @@
+---
+layout: post
+title: To Southern France!
+chapter: France
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 08 February 2007 - {{ page.location }}
+
+Undaunted by the collapse of our Morocco plans (damn you Ryanair and your shifty pricing scheme, 43 euros in taxes my ass), Emma and I have begun planning a sojourn to various parts of Southern France.  We’re hoping to make it to Morocco later on during our “May is for Traveling” month.  
+
+Not much else to update.  We finished our oral rendition of the Odyssey a week or so ago and have now begun to read aloud the Iliad.  Much more boasting in this one and more shout-outs to the actual people in battle.  Ulysses actually only ran into about 20 (important) people total in his travels, while it seems that there wasn’t a single unimportant person fighting in the War.
+
+Also noteworthy, my sister is coming to Paris for her spring break next week.  She’ll be making her way out here on Wednesday and then Emma and I will accompany her and her boyfriend back to Paris next Friday. Excellent.
+
+--
+
+Discuss this post on Twitter with #kapowell-sfrance
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

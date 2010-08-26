@@ -1,0 +1,25 @@
+---
+layout: post
+title: Le Style
+chapter: France
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 23 March 2007 - {{ page.location }}
+
+I felt vindicated when my sister and I were walking around Dijon while she was here and said exactly what I had been thinking for the past four months.  Europe may be more on top of new trends in style than us ‘Mericans, but it comes at a cost:  being wrong a lot.  
+
+Seriously, quite often I’ll see someone wear something crazy but really pull it off; the whole ensemble actually works somehow, and they are ahead of the fashion wave.  But this is one monster of wave.  It’s like the Pipeline, pulling up so much water that as you ride you are actually suspended over exposed sand.  If you fall, you fall far and you fall hard.  A lot of the French fall hard when it comes to fashion.  Ask any surfer, it comes with the territory of riding big waves.  
+
+One such trend is matching jumpsuits with the elastic cuffs tucked into your socks.  I want to explain to my students how dumb this looks when they do it.  But then I suppose that would be like telling a surfer to get down off those waves because they might hurt themselves.  I sure as hell don’t want to get up there though.  I’d just look like an ass.
+
+--
+
+Discuss this post on Twitter with #kapowell-style
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

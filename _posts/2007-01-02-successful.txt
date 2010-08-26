@@ -1,0 +1,32 @@
+---
+layout: post
+title: Successful
+chapter: France
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 02 January 2007 - {{ page.location }}
+
+Without turning this weblog into some sort of perverted Daniel Defoe accounting epic, we’ve managed to bankrupt ourselves for the second time in as many months.  So goes traveling in Europe I suppose.  
+
+Christmas and New Year’s were excellent fun and perhaps if I feel like it I’ll post some details, but honestly who wants to read exactly everything we’ve done?  Perhaps a list is the best way to at least catalogue the events for my own musty head:
+
+* Sochoux football match for the boys / Strasbourg Christmas market for the girls
+* Season two marathon of the Office on Christmas (nothing is open in France)
+* Train ride through the Western Alps on our way to Florence
+* Duomo, Uffizi Gallery and Accademia Gallery in Florence
+* Vatican Museums, St. Peter’s Basilica and the Fortress of Saint Angelo
+* Colosseum and the Ancient City of Rome
+
+Of course, a list does little poetic justice to how fantastic all our traveling was and also cannot communicate the delicious meals and gelatos of which we partook.  Suffice it to say it was a great trip.  I have some photos that I will post soon.  Given the previously mentioned lack of funds, the second week of Christmas break will have to be spent using free Internet, reading the copious books my mother sent and looking for side jobs tutoring English.
+
+--
+
+Discuss this post on Twitter with #kapowell-success
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

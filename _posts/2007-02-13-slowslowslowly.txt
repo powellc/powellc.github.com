@@ -1,0 +1,27 @@
+---
+layout: post
+title: Slowslowslowly
+chapter: France
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 13 January 2007 - {{ page.location }}
+
+Time is moving a little slowly right now.  And to think Emma and I scoffed at someone’s recounting how she filled all her free time in France.  Free time, we thought?  How about travel!  Well, it turns out that one trip a month is pretty much all our salaries are good for, so there are these massive lulls in our lives in France.  
+
+It’s really no big deal though.  I’ve taken up reading “classic” texts in eBook format, mostly because of Rome and a brief exhibit on the Iliad at the Colosseum, but mostly because of my own desire to be “better read.”  Whatever that means.  Maybe once I’m done with some of this stuff I’ll understand five percent more of Ulysses.  A man can dream, can’t he?
+
+I’ve also posted signs for side jobs to help supplement our meager income.  I have had two bites so far for English conversation practice.  It’s not a bad gig, really.  I talk with someone about anything at all using the English language and it pays ten euros an hour.  I haven’t actually done this yet, though, so I’ll see come Monday how it all works exactly.  
+
+This was a pretty long post when it’s job was to transmit the utter boredom that has gripped our tiny apartment in the attic of a building in Besancon, France.  But sometimes the most banal and ordinary parts of life just take the most time to explain.  How odd . . .
+
+--
+
+Discuss this post on Twitter with #kapowell-slow
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

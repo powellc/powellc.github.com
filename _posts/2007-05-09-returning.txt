@@ -1,0 +1,25 @@
+---
+layout: post
+title: Returning
+chapter: France
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 09 May 2007 - {{ page.location }}
+
+So we cut our vacation by a day.  The decision was based mostly on our states of mind, but I’m sure the weather forecast and finances played their part in creating those states.  Also, it turns out that Munich doesn’t have a whole lot of really obvious tourist sites, so on a rainy day you can’t just jump in a museum (especially when you’re strapped!) because each museum may have one or two things that’s actually interesting.  For example, I would have loved to see the small collection of Klimts at the Leopold Museum, but the rest of the works there reeked of “filler” or “personal taste only” matter.  Given our financial situation on this trip, it just wasn’t worth it.  And we are tired of traveling.
+
+Yes, it’s official.  We’re ready to come home.  I can’t really speak for Emma, but I am very excited to start doing work that will lead to a happy and stable life in the future.  France, for all its splendor and entertainment, was really just a place-holder, and we knew that going into it.  We’ve learned a lot, especially about the French language and people, and we’ve seen a lot.  But the party’s over and it’s time to get down to business.  We have a lot to do when we get home, and not much time to do it.
+
+I’ll try to post with some details of our trip in the next few days, especially getting some photos on-line.  For now, sit tight and let your breath out, as we survived a couple of near disasters on the road (none fatal, mind you) and are sitting safely in Besancon for the next ten days.
+
+--
+
+Discuss this post on Twitter with #kapowell-return
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

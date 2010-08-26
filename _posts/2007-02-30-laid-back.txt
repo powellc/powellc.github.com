@@ -1,0 +1,25 @@
+---
+layout: post
+title: Laid Back
+chapter: France
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 30 January 2007 - {{ page.location }}
+
+My first few impressions of life in France were quite mixed.  Many things were different, many things were the same.  The things that were different felt a little funny, and the things that were the same felt dirty.  Strictly manual transmission, diesel vehicles and the fact that everything closes over lunch rubbed me the wrong way.  Massive “hyperstores” and fast-food restaurants (and many, many people patronizing both) made me feel bad about what I perceive to be America’s contribution to the world.
+
+Now that I’ve discovered that the latter doesn’t have to be a part of your life if you don’t want it to and have grown accustomed to the former points, I feel like I’m going to miss aspects of France.  While the everything-at-lunch-time-is-closed problem seems bad from the outset, just today I got a warm feeling watching everyone in my neighborhood walking back to school/work after lunch.  I felt in touch with the humanity of those around me.  As it turns out there are more things than death and taxes in life which are certainties.  Food and eating food is one of them.  I’ll try to avoid too many grandiose or generalizing statements here, but it seems that many people in the US eat purely out of function, while here in France there is some pomp and circumstance surrounding most meals (though I’ve yet to see much around breakfast).  That is not to say such things don’t exist in the US, but it seems that enjoying the more basic aspects of life is simply not part of our cultural philosophy.  Just don’t ask me what is a part such a philosophy or I’m liable to start pissing people off with generalities (and they’d be pissed for good reason).
+
+Regardless, the point of this post was not to whinge poetic on the current statelessness of American culture, but just to point out that I’ve really grown to love the near-total shutdown that accompanies the lunching hour in France.  Also the cheese.  Oh hell, the wine is really delicious too.  Speaking of cheese, anyone visiting us must remind us to introduce you to “Cancoillotte”:http://en.wikipedia.org/wiki/Cancoillotte (the coill is pronounced ‘qwee’).  It’s pourably creamy and tastes like a little bit of heaven was left to ferment in a smoke-house.  The vin jaune flavour is particularly fantastic.  We need to find a way to procure this in the US . . .
+
+--
+
+Discuss this post on Twitter with #kapowell-laidback
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

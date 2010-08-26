@@ -1,0 +1,23 @@
+---
+layout: post
+title: Franglais
+chapter: France
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 26 March 2007 - {{ page.location }}
+
+So contrary to my greatest hopes and dreams, my French has not progressed nearly to the point of fluency.  Perhaps if I’d made more of an effort, or if Emma and I hadn’t come here together it would be better?  This game can be played till the cows come home though.  In the end, I’m sure my French is better than it was when I got here, and I can take some consolation in that.  Plus I’ve discovered a neat little side effect to my living for so long in France.
+
+My Franglais has actually gotten much more accurate.  Franglais is the process of turning English words into French, and is only possible because some thirty percent of all English words have French origins.  I’m sure the same process works in German (in fact I know it works better, because English is more heavily Germanic).  The important thing here is that I’ve actually gotten better at knowing which words I don’t know in French will probably be similar to their English counterparts.  One could probably chalk this up to my increasing vocabulary, meaning that I actually know more words in French now than I ever have before.  I prefer to think of it as a distinct new ability, akin to Iceman’s ability to blaze his own speedy ice trail through the sky for transportation while deftly avoiding falling off by creating some sort of ice-wall on the edge of his on-demand skyroad.  You see, I could always do Franglais, but now I can do it while deftly avoiding falling off the edge into the abyss of insignificance.
+
+--
+
+Discuss this post on Twitter with #kapowell-frangalis
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

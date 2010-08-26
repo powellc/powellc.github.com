@@ -1,0 +1,23 @@
+---
+layout: post
+title: Sharing
+chapter: France
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 05 January 2007 - {{ page.location }}
+
+Apparently Portland’s Chinatown is embarking on a brave new “experiment”:http://www.seedmagazine.com/news/2006/12/where_the_sidewalk_ends.php in urban planning:  squares usable by both pedestrians and vehicles.  Turns out Besancon, France beat them to the punch on this one.  Honestly, so many streets around here are not-quite-pedestrian-malls that it can make walking stressful at times.
+
+Of course, the advantage of pedestrian/vehicle streets is small streets and even smaller sidewalks becomeing larger by becoming vaguer.  I don’t think it will work in the States though.  Too many well-laid-out cities and not enough concentration of population.  Seriously, Besancon is about the size of Appleton, WI and has a decidedly larger and busier downtown area with older, smaller streets.  (Emma may disagree with me on this last point … )
+
+--
+
+Discuss this post on Twitter with #kapowell-sharing
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

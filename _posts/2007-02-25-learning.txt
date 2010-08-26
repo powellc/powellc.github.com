@@ -1,0 +1,29 @@
+---
+layout: post
+title: Learning?
+chapter: France
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 25 January 2007 - {{ page.location }}
+
+I’ve become bent upon self-learning recently.  This has little to do with France, per se (unless you count the fact that it’s happing to me in France), but is, I believe, related to my having to learn French “for real” this year.  
+
+While there are copious amounts of space to fill around this so-called job, I’ve found that having to actively learn a language is fueling in me a desire to learn all manner of other things.  And idle time is the best time in which to do that.
+
+This is not to say, though, that I haven’t always sought to learn new things, just that I’ve been really buckling down and trying to figure out what, how and why certain things, like computer languages, law and classic literature, appeal to me and allowing me to take actually reading things more seriously.
+
+Exploring new music fits into this category as well.  May I recommend some French experimental pop?  “Chocolat Billy”:http://lespotagersnatures.free.fr/catalogue/disques/PoNa014.php are entertaining.  Also, non-French but kicking ass are The New Lou Reeds.  Listen to “You Don’t Have to Die” really loud with headphones.  I swear to god this Cleveland band traveled back in time and kidnapped Jimi’s Experience band … I’m mean, damn!
+
+I’m gonna go back to listening to French radio.  My biggest problem is simply not understanding people when they speak.  Maybe it will help a little?
+
+--
+
+Discuss this post on Twitter with #kapowell-learning
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

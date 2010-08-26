@@ -1,0 +1,27 @@
+---
+layout: post
+title: A Friend in Innsbruck
+chapter: France
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 30 April 2007 - {{ page.location }}
+
+So here we are, in Budapest with not a lot of money to our names, and nights are slow.  So I better just give a little peak into our travels thus far.
+
+We travelled for a long time on a train, going through Basel and Innsbruck on our way to Salzburg.  In Innsbruck a really nice women got on with her husband and sat in our compartment.  At first we were quite irritated at their presence, as they were the two that made six in our six person compartment.  Eventually, though, she started conversation with us, as much to help her improve her English as anything else.  But as we talked she mentioned how much she loved travelling and had been to Arizona a number of times as well as a plethora of other places.  She explained how she really enjoyed knowing someone wherever she visited so that she could actually improve her language skills.  In both the US and Australia she had friends who took her in and showed her around.
+
+This went on for a while (Innsbruck to Salzburg, while short as-the-crow-flys, is not short as-the-train-goes-through-the-mountains), and eventually we got around to invitations.  She seemed disappointed that our plans did not involve a stop in Innsbruck, and insisted that the next time we found ourselves in Austria we should stay with her and she would show us around town.  Fantastic, now we have a reason to come back to Austria.  Of course, we reciprocated and told her that she’d be welcome to visit us in Indiana (or wherever school takes me next year), though she’d probably be better off holding off until we settle in Maine in the next few years.  Then we could really show her some great scenery.  
+
+In the end, it was a great trip through the Tirolean Alps and we made a new friend in Austria.  I can’t remember her name, but her middle name is Monika.  That I only remember because she told a hilarious anecdote about how her father, unbeknownst to her mother, switched her first and middle names to his preference before putting it on the certificate.  Her mom wanted her to be named Monika, which is really much easier to remember, at least for an American.
+
+--
+
+Discuss this post on Twitter with #kapowell-innsbruck
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

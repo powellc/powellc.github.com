@@ -1,0 +1,31 @@
+---
+layout: post
+title: And we're back
+chapter: France
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 20 April 2007 - {{ page.location }}
+
+After a long absence, we’re back in France and Besancon.  Emma’s parents and sister flew down to see us and we roadtrip-ed out to Germany.  The whole thing was spectacular, though any extended lengths of time in a car are bound to make people a little tense.  It’s interesting that trains allow you to relax and enjoy the ride, once you’re on it, and cars allow you to relax and take your time, until you’re in it.  We got turned around only three times, once trying to find out how Fussen is laid out, once on our lunch trip to Austria and once on our way home, where Mulhouse and Basel seem like the same basic highway exchange, but are certainly not.  
+
+Our first stop on this trip was Rothenburg, a walled Medieval city that remained quaint and undisturbed for more than 250 years because everyone in the city was dirt poor.  Now it’s a bit of a tourist trap, but the night watchman tour is worth the stop.  Pedrick bought a DVD of him … it was that good.
+
+Our next stop was the castles of King Ludwig II located near Fussen.  The drive down to Fussen on the Romantic Road leads straight into the Tirolean valley of the Alps — simply beautiful.  I’ll post some pictures soon.  The castles themselves, while amazing, suffered from very short and not detailed tours.  Also, they were both built in the 19th century, the largest one near the turn of the century.  It was almost as though no one bothered to tell the royalty of Bayern that the French king had already lost his head.  Ludwig died under mysterious circumstances, though it’s pretty well understood that one of his advisors was pissed off that his castle was serioulsy draining royal coffers.
+
+We had an overnight stay in Meersburg, Germany on Wednesday after having eaten lunch across the border in Austria.  Meersburg is a resort town on Lake Konstanz and provided a great opportunity to walk along the lake and drink a local specialty … cola and pilsner.  It was interesting.
+
+On our last day we pushed through the Black Forest, stopping in Triburg to see a clockwork museum.  Apparently southwest Germany was known for the development of automated music boxes.  These ran on steam or electricity and were not as small as the words “music” and “box” suggest.  One was the size of a large wardrobe and the description boasted that it sounded similar to a 50 person orchestra.  25, maybe.
+
+The whole time we ate wonderfully.  On Tuesday we celebrated my birthday at a delicious Bavarian resturant in Fussen.  I had wenierschnitzel and spatzle with a nice dark beer.  Well, two beers.  This was also my first time ever in Germany.  Not a bad way to spend a birthday!
+
+--
+
+Discuss this post on Twitter with #kapowell-back
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

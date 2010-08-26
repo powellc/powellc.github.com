@@ -1,0 +1,29 @@
+---
+layout: post
+title: Advantage
+chapter: France
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 06 April 2007 - {{ page.location }}
+
+One of the strangest negative aspects I’ve experienced in France so far has been comprehending my own satisfaction, or lack thereof, with my stay.  The problem almost always manifests itself in the same way and, as such, is so obviously predictable that I’m not sure why I always let it get to me.
+
+The situation: sitting in the teacher’s room and being asked, “what did you do this weekend?” or some other variant of the same question by the other assistants.  (Really, only two of the assistants.)  The problem is, those two are “do-ers,” if I may use that expression.  I am not a do-er.  I am a let-us-sit-and-think-er.  That’s not to say I don’t enjoy getting out, touring other parts of Europe and generally taking advantage of my location in France.  But I often find just as much happiness in the really basic elements of life.  
+
+This is a complex emotion I’m trying to express in a rather feeble medium, but I’ll keep trying.  I find myself re-evaluating my experience in France using the lenses of these two other assistants, lenses which don’t actually reflect what I find “fun.”  Thus, I come away from such interactions disappointed with the un-excitingness that is my experience in France.  And this couldn’t be farther from the truth for the ninety percent of the time I’m not discussing what I have or have not done with them.  
+
+Emma and I have had some amazing experiences in France, but we have not done everything there is to do in France.  We’re going to leave a lot un-done, but then again, so are the other two assistants.  And speaking of which, the other two assistants took advantage of the high school’s free lodging opportunity, meaning that they never actually had to learn or go through the process of looking at apartments, signing a lease in France, paying bills, filling said-apartment with furniture or learning how to maintain a house while sticking to a budget.  I hardly hold their lack of experience in these matters against them, but just living self-sustained in France was a big goal for Emma and I, the problem is it doesn’t make for a good “what did you do this weekend” story.  “Yeah, we spent the weekend basking in the satisfaction that for the first time in six years (really in our lives) WE paid for our housing, electricity and food.”  That just doesn’t sound as great as visiting the Iguana Cafe (where we are now, officially, regulars) and drinking with friends.  Ok, to Emma and I, yes, yes it does sound better.
+
+This post was simply an exercise in removing weight from my chest.  For too long I’ve stood silent on the issue of expectations versus real-world accomplishments.  It’s also a warning that I’m not going to take much crap on the issue of “did I take advantage of my time in France.”  That’s so subjective it just makes me want to throw up, and I’m in to good a mood living in a quiet little French city to throw up just now.
+
+--
+
+Discuss this post on Twitter with #kapowell-adv
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

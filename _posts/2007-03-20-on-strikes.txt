@@ -1,0 +1,29 @@
+---
+layout: post
+title: On Strikes
+chapter: France
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 20 March 2007 - {{ page.location }}
+
+For the past two weeks I have worked (actually stood in front of students and done a lesson for an hour) a total of four hours.  While that seems amazingly small, do keep in mind I’m only scheduled for twelve hours.  Still, this is quite low.  The reason?  A strike.
+
+That’s right, the myth is not actually a myth; the French love to strike.  Of course, putting it like that suggests there is some levity to the French notion of a “greve,” which there certainly is not.  The French take their striking very seriously, and it’s usually reserved for things like lay-offs and compensation adjustments.  
+
+It’s also worth mentioning that, much like all things in life, some people support the idea of striking while other (at my lycee actually quite a few) do not.  Of course, only the teacher or the students needs to agree with the strike for me to not have class, so while many classes were canceled because the teacher was sympathetic, a few were actually canceled because no students showed up.  
+
+One of the teachers was explaining to us assistants how there is no compensation for work not done if your party does not come out on the winning side of the strike.  This means that if you do not succeed in striking you just don’t get paid for the week or two you weren’t working.  Of course, you do get paid if you succeed.  Thus, there is a bit of gamble in striking which stops people from striking because the principle refuses to wear shoes.
+
+All this amounts to is me sitting in the teacher’s lounge wondering when I might have to teach and checking the rooms I’m supposed to be in when the time comes, only to shuffle off again once I see no one has turned up.  I can live with that.  If there’s one thing I’ve always been good at, it’s entertaining myself.
+
+--
+
+Discuss this post on Twitter with #kapowell-strikes
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

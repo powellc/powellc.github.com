@@ -1,0 +1,27 @@
+---
+layout: post
+title: High-pitched Squeals
+chapter: France
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 30 March 2007 - {{ page.location }}
+
+So there’s a new ringtone making the rounds at schools everywhere.  I had heard about it in a podcast months ago (it’s surprisingly easy to remain “in the loop” when abroad these days), but had yet to see anyone actually try to use it.  Well scratch that.
+
+There I am, in the classroom a little early because my French has at least developed to the point where I now understand that the chatter in the teacher’s lounge at break time is not actually secret messages full of criticisms of the assitants, but actually trite and superfluous talk about how So-and-so forgot to lock the classroom door five weeks ago or Whats-her-name had a spat with the tech support guy downstairs — truly boring.  There are five students actually waiting for me to open the door, a first in it’s own right, but then, the students actually seem happy!  They chat away for a couple of minutes while I pretend to busy myself with a document for another class, when two of the students, almost simultaneously, ask me what my age is.  Holy shit, they were even using English!  I excitedly responded by saying, “Ummmm…twenty-four.”  The thinking before responding to age questions is a curious phenomenon that began sometime around twenty.  I continued by explaining that I was actually nearly twenty-five, my birthday being just a few weeks away.  This seemed to satisfy their curiosity and all the students focus went to someone’s mobile phone.  He played with it for a couple of minutes before it let off a horrible high-pitched squeal.  All the students in the room groaned a little and I made a sour expression towards the student and wondered what horrible TV show he was streaming on his infinitely-more-technologically-advanced European phone before it occurred to me.  It was THAT ringtone!  I laughed along with the students and said, “Yeah, I think it only works if I’m over forty …”  The student had a sheepish look on his face and everyone else continued to laugh.
+
+The whole incident actually had a net-positive effect on the class.  So often it’s difficult to break the ice with these students, especially as the weather warms and they get sleepy in rooms where building-wide heat is still on.  Today’s class went well, and I got the sense that the students were actually beginning to understand the difference between me and their actual teachers.  Just in time too, as I only have that class one more time before I’m done here.
+
+Also, as an addendum, I should note that the ringtone supposedly actually works.  Leo Laporte, one of the guys on the podcast I heard about it on (TWiT), is in the age-range where you supposedly begin to lose the ability to hear high-pitched tones and he couldn’t hear anything when they were testing it.  What a hilarious and innovative use of science.  Though, personally, my favorite story about sound frequency remains the comment in the sound.h file for the Borland C++ DOS compiler which gave an example setting for sound output as (and I’m making this number up, so don’t quote me) “550 Hz - harmonic frequency of a chicken’s skull.”
+
+--
+
+Discuss this post on Twitter with #kapowell-squeals
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

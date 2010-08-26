@@ -1,0 +1,25 @@
+---
+layout: post
+title: ParYs
+chapter: France
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 22 February 2007 - {{ page.location }}
+
+So my newly-engaged sister and her fiancee blew into France for a week and treated us to a side of Besancon we didn’t know existed.  Namely, restaurants.  We are always trying to scrimp and save for big travels while we’re in our home town, so we don’t often get to sample some of what, we assume, are delicious places to eat.  Now we can add L’Poker d’As to our list of places we have, in fact, eaten at.  It was a bit rustic and elegant in that country way (Franche-Comte literally means ‘French Shire’).  I had steak tartare, which I ordered without giving much thought to what it actually was composed of.  When a round of raw meat was being mixed in a bowl in front of me with a raw egg, my stomach started punching me from the inside.  In fact, it was amazing.  Very fresh, as one might imagine, and I managed to prove the first rule of American paranoia incorrect, raw food does not automatically kill you, or even leave you miserable for a few days.  Really, I think raw food is probably the greatest test of the freshness of a restaurant.
+
+Fine dining in Besancon aside, Emma, Hannah and I then proceed to follow my sister and her fiancee back to Paris for the weekend.  We walked around Montmartre and saw the excellent Dali museum up by Sacre-coeur.  Our dining was fantastic and was capped off with a meal in what claims to be the oldest restaurant in Paris.  Regardless of it’s age, it was fantastic.
+
+For all the cool things we saw, the visit was most important for me as a time to talk with my sister, whom I don’t see nearly enough these days.  Also, for the record, getting engaged does help avoid having to explain the extent of one’s relationship, as her fiancee rightly pointed out to me.
+
+--
+
+Discuss this post on Twitter with #kapowell-parys
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

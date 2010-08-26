@@ -1,0 +1,27 @@
+---
+layout: post
+title: Southern France
+chapter: France
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 08 March 2007 - {{ page.location }}
+
+Emma and I just returned from a trip south to Avignon, Nimes and Carcassonne.  We wanted to make it to Toulouse as well, but we just got tired of traveling (also we’re trying to conserve money for the month of May, when we’ll be traveling without the promise of more money from the French government).  The trip was excellent and was basically a serious lesson in French history.  The Papal Palace in Avignon was home to six different popes starting in 1309 and lasting for one hundred years.  The end of the papal sojourn in France ended with the Western schism where there were actually two popes for a time.  Thus, to the non-Catholic amongst us, Avignon is a pretty good example of how fragile the Catholic church was for a time.
+
+For contrast, we then stayed two nights in Nimes.  Nimes is a laid back, very Mediterranean-feeling city with some really impressive Roman ruins.  There’s an arena from the second century and a large square house (or maison carre) that used to be part of the forum.  It’s a great city to relax in, with a giant, sprawling garden that’s on par with some of Paris’s great parks and a great old city area with twisting streets and little shops.  Our hotel was pretty crappy, but also inexpensive.  Our Rough Guide gave us the wrong number for the hotel we wanted to stay at and everything else seemed closed or expensive.  It  almost felt as though the guests in our hotel was an afterthought to the owners, as we got the second degree for asking for a third role of toilet paper (that’s right, they didn’t refill it when they made up the beds, we had to ask for it).  Hotel aside, Nimes was a great stop for some amazing Roman history.  The arena audio tour was quite a bit more informative than the one at the Colosseum (you would have loved it Al), explaining the different types of gladiators and knocking down some of the myths (like the one where gladiators were POWs or slaves, those people were actually just straight up fed to lions without the benefit of weapons for defense).
+
+Our last stop was Carcassone, a well-touristed area, to be sure, but also an amazing relic of Medieval France.  The upper city of Carcassone is actually a fortified city that was massively reconstructed in the late 19th century for historical preservation.  The actual history of the city is amazing, and fit nicely between the Roman history of Nimes and the papal history of Avignon.  Carcassonne, in it’s heyday was a hot bed of a group of heretical Christians called Cathars.  Cathars existed all over Europe, but the people of Southern France, Languedoc in particular, were okay to coexist with them.  The Catholic church, however, was not okay with it.  Starting in the beginning of the 13th century (don’t quote me), Pope Innocent III authorized a crusade against the Cathars.  The people of Carcassonne, having advanced warning from the near-total destruction of nearby Beziers, mostly escaped though a tunnel, leaving the city for the Catholics to occupy.  There’s much more to the story, but I’m sure Wikipedia has a good synopsis of the Cathars with more accurate dates.  Our stay there was marvelous.  We stayed in the nicest hotel of our trip, while paying only marginally more, and also treated ourselves to a dinner out (on the rest of the trip we’d been doing picnics from the local grocery stores to conserve money).  The regional dish in Languedoc (pronounced ‘long-dock’) is cassoulet, a bean, sausage and duck casserole served in a cassole, or thick ceramic dish.  It was amazing how something so simple and rustic could be so delicious.  I also tried some Pastis, finally, and it was delicious.  Hannah got an appertif that was some medieval recipe for spiced red wine, which was amazing.  We subsequently bought two bottles of it to take home.
+
+All in all and very successful trip.  Hannah departed for the UK from Carcassonne, and Emma and I took three all-too-long train rides to get back to Besancon.
+
+--
+
+Discuss this post on Twitter with #kapowell-sfrance
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

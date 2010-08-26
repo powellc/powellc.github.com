@@ -1,0 +1,25 @@
+---
+layout: post
+title: Disaster averted
+chapter: France
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 29 April 2007 - {{ page.location }}
+
+Emma and I departed for Austria and the start of our “further” eastern Europe vacation.  Our path has already taken us through Salzburg to Budapest.  Eventually we will go through Vienna and Munich before returning to Besancon.  Thus, it is only sort of Eastern Europe, mostly it’s simply further east than where we’ve been so far.
+
+Quickly, though, the averted disaster was not nearly as big a problem as it seemed from the outset.  We rode a train for 11 hours to Salzburg, walked across the city to a really nice hostel, opened my wallet to pay and … no bank card.  What … the … fuck?  I had left it in an ATM (or distributeur) in France.  Thankfully I had left it after having withdrawn quite a bit of cash under the theory that after about a week of using our card outside of France (or sometimes just outside our region of France) the bank puts a hold on it.  So we were hedging our bets that we’d only get a handful of ATM transactions for our trip.  Thus, when I pulled this idiot move and left the card, we already had a back-up plan.  Thank you, tax returns.
+
+So that was our adventure with money.  Needless to say, Salzburg was beautiful and a joy to just walk around in.  We really only had one full day there, and managed to take in the castle and walk a fair amount of it (seeing our own bits of Sound of Music tourist sites … ugh.)  More details when I’m not at a computer that hurts my hands.
+
+--
+
+Discuss this post on Twitter with #kapowell-averted
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>
