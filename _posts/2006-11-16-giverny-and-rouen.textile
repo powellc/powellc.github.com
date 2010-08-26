@@ -6,6 +6,7 @@ location: Besançon, France
 ---
 
 h1. {{ page.title }}
+
 h2. {{ page.chapter }}
 
 p(meta). 16 November 2006 - {{ page.location }}
