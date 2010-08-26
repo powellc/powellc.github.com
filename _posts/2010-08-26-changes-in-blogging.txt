@@ -1,0 +1,27 @@
+---
+layout: post
+title: Changes in blogging
+chapter: Banalaties of Life
+location: Castine, Maine
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 26 August 2010 - {{ page.location }}
+
+Between discovering "posterous":http://kapowell.posterous.com and discovering "jeykll":http://github.com/mojombo/jekyll, I feel as though I'm being pulled in too many directions. Jeykll is beautifully simple, but in very different ways from posterous' beautiful simplicity. So I'm going to try to continue to use both. Mostly, posterous will be for photo and video blogging, as there's no simple way to get photos up with jeykll besides uploading to flickr and then linking to the flickr photo upload. 
+
+On the other hand, I just can't bring myself to "blog" with email. Sending off an email to myself about myself just seems weird. So long form blogging about what's going on in Maine and on our farm will continue to take place on kapowell.com, but instead of some duct-taped django blog, it will simply be powered by jeykll. No more onerous settings or database juggling, just commit and upload.
+
+Right now this blog is only hosted at github, but I'm doing some server shifting right now and will get kapowell to hook up to it soon. In the meantime, watch out. The post detail page on kapowell.com has been substantially degraded to make porting the archive of posts over to jeykll.
+
+Bare with us as we transition. Though I don't think I have all that many followers these day so it shouldn't be much of an issue.
+
+--
+
+Discuss this post on Twitter with #kapowell-blog
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>
