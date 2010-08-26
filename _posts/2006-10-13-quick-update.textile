@@ -1,0 +1,26 @@
+---
+layout: post
+title: A quick update
+chapter: 
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+h2. {{ page.chapter }}
+
+p(meta). 13 October 2006 - {{ page.location }}
+
+Things are getting more busy as Emma and I both have begun working at our schools.  Next week we will cease being observers and take on the responsibility of talking with and educating our kids in English.  It’s a daunting task, and no one has to do it, but we’re being paid so we probably ought to.
+
+As such, you will notice posts getting shorter, perhaps, though we will try to keep updating on a regular basis.  It will become much easier once we have Internet access at our apartment.  Right now I spend most of my precious time on the Internet preparing activities for my students and managing two different fantasy football teams.  I know, I know, preparing for class isn’t that important, but the kids will appreciate it.  
+
+Also, I would like everyone to know that the Chicago Bears are now 5-0 and Rex Grossman apparently just needed me to leave the country to stay healthly.  Don’t worry Rex, I’ve already begun my ex-patriation paperwork.
+
+As usual, there are some photos up on flickr.  I’m going to add something to the top of the page that will simply turn colors when new photos have been added.  That should be easier than constantly providing the link at the end of every post.
+
+--
+
+Discuss this post on Twitter with #kapowell-qupdate
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

@@ -1,0 +1,24 @@
+---
+layout: post
+title: Eric Foner
+chapter: 
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+h2. {{ page.chapter }}
+
+p(meta). 04 December 2006 - {{ page.location }}
+
+You’ll notice that, while this journal is meant for things specific to France and our travels within it, I have already posted once about the political environment in the US.  I am about to do so again, and I apologize. 
+
+You see, that last post was about ignorant French people and I don’t want to give the impression that ignorance is unique to France or that the ills of ignorance are more acutely felt in France.  Enter “this”:http://www.washingtonpost.com/wp-dyn/content/article/2006/12/01/AR2006120101509.html op-ed piece in the Post by Eric Foner.  Yes America, if we had a word in English like Franchouillard, it would become exhausted by use on our current president.
+
+That is all.
+
+--
+
+Discuss this post on Twitter with #kapowell-foner
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

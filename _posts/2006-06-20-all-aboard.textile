@@ -1,0 +1,20 @@
+---
+layout: post
+title: All Aboard!
+chapter: 
+location: Appleton, Wisconsin
+---
+
+h1. {{ page.title }}
+h2. {{ page.chapter }}
+
+p(meta). 20 June 2006 - {{ page.location }}
+
+For any who might care, Emma and I are making a farewell tour of the Midwest.  Much like the whistle-stop tours of dead politicians we will be making scheduled stops in Bloomington, IN, Chicago, Appleton and Milwaukee.  Of course, we wont be signing autographs or pitching bullshit that we’ll never actually do.  Instead we’ll be visiting newly purchased houses, acquiring travel visas and attending the perennial State Fair of Wisconsin.  If you would like to book us in your area, send an email with all pertinent information.
+
+--
+
+Discuss this post on Twitter with #kapowell-aboard
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

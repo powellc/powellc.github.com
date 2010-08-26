@@ -1,0 +1,28 @@
+---
+layout: post
+title: Badger State
+chapter: 
+location: Appleton, Wisconsin
+---
+
+h1. {{ page.title }}
+h2. {{ page.chapter }}
+
+p(meta). 25 June 2006 - {{ page.location }}
+
+Badger State Games, an olympics knock-off for the state of Wisconsin, held it’s ultimate tournament this weekend.  It’s a two day affair that involves two divisions of co-ed teams.  This year I participated as an Appleton resident on their team, named Adult Entertainment.
+
+The name is rooted in Al Reiser, though a number of people this tournament complained that it was a little to long-winded.  Other names up for discussion were:  ‘Woody’ or ‘The Valley.’  I personally like Woody for a team name.  It doesn’t mean anything, really, but it just has a good one-word ring to it.
+
+On our first day of this, the 2006 games, Adult Entertainment went 4-0, rolling over two high school teams to start.  We then got a little bit of a thrill against a better team, but still pulled away at the end for a 13-9 victory.  The last team of the day had a lot of mutal acquaintances on it, so we had a lot of fun while still playing competitve.
+
+On the second day AE fell flat on it’s face.  I, for one, play worst in the first game of the day.  A bye in the first round doesn’t help that.  The team we played had already been warmed up and we were as from from warm as I can possibly imagine.  The playmakers from the day before were making stupid passes and dropping discs and we lost some of our more quality girls.  All in all it was a disappointing tournament, performance-wise, but a really fun time and the weather was just fantastic.  Madison does it again.
+
+Also, as a result of being eliminated early, we got to watch the Portugal v. Netherlands game at State Street Brats.  The volume was just booming and the emotions were high for what has been the best match of the World Cup thus far.  Thank god we lost, that’s all I can say.
+
+--
+
+Discuss this post on Twitter with #kapowell-bsg06
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

@@ -1,0 +1,24 @@
+---
+layout: post
+title: The Big MT and Haiti
+chapter: 
+location: Appleton, Wisconsin
+---
+
+h1. {{ page.title }}
+h2. {{ page.chapter }}
+
+p(meta). 06 June 2006 - {{ page.location }}
+
+Mother Theresa once shook hands with a dictator and praised his wife for her community outreach.  I realize it takes a lot to be good in this world, but clearly Theresa, here, was more of a politician than a saint.  That is, if she ever attains sainthood.  I would like to see those three miracles.  I bet they are all going to have been in third world countries, carefully out of the sight of any sort of electronic historical documentation devices like a camera. 
+
+
+I got that little tidbit of Theresa trivia from the book &laquo;Mountains Beyond Mountains&raquo; which is about a man, his mission and Haiti.  It really is fantastic and can either serve as a stimulant to encourage one to go out and help change the world.  Or it can work as a depressive agent, showing just how little the things one does for entertainment matter to the 3,000,000,000+ people living in abject poverty in the world.
+
+
+
+--
+
+Discuss this post on Twitter with #kapowell-haiti
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

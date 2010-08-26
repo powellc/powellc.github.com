@@ -1,0 +1,26 @@
+---
+layout: post
+title: Franchouillard
+chapter: 
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+h2. {{ page.chapter }}
+
+p(meta). 30 November 2006 - {{ page.location }}
+
+_Def._ ??A typically narrow-minded french person??
+
+As I had a nice conversation with one of my classes about the merits of California wines, the teacher busied herself with a dictionary in the back.  She then shows me the word above and, at the end of class, apologizes, saying that she’s originally from Paris and is constantly amazed at how arrogant and narrow-minded people from the Franche-Comté region can be.
+
+Me?  I thought it was funny, and didn’t realize quite how adamant the guy was that French wine is, and always will be, superior to California wine.  
+
+It seems Franche-Comté in general may have an inferiority complex, and I hear those don’t help problems with arrogance.  A few weeks back __L’Est Republican__, Besançon’s regional newspaper, ran a story with the headline: __What do Parisians think of Besançon__ (In French, of course).  I can only imagine they think they are a bunch of country bumpkins.  That seems to be the general consensus in France.  Not that it’s true, mind you.
+
+--
+
+Discuss this post on Twitter with #kapowell-ouillard
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

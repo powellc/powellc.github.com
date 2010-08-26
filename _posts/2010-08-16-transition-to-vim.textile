@@ -18,7 +18,7 @@ So between Vim, xmonad and git to manage my projects and documents, I think I ha
 
 --
 
-Discuss this post on Twitter with #powellc-vim
+Discuss this post on Twitter with #kapowell-vim
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>
 

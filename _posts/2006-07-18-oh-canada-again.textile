@@ -1,0 +1,26 @@
+---
+layout: post
+title: Oh, Ca-nada!
+chapter: 
+location: Appleton, Wisconsin
+---
+
+h1. {{ page.title }}
+h2. {{ page.chapter }}
+
+p(meta). 18 July 2006 - {{ page.location }}
+
+Emma and I returned a few days ago from a trip to the untamed north of Nova Scotia.  We embarked on a six day epic adventure with friends from Lawrence who all, in some capacity, either are working or have worked for the residence life department.
+
+Thankfully the collective experience of mediation and group management were only needed approximately once during a particularly dark period.  It seemed our campground reservation that night was in a park that was damn-near in the downtown of Louisburg and catered more towards RVs than tents.  Of course, we didn’t know this on the phone.  So after checking out one other seedy dive, we finally found a state park and had a grande olde time with some wine we’d purchased from a vineyard near Tamagochi, Nova Scotia.  Well, the town wasn’t really Tamagochi, but it was so close as to be unpronounceable to Patrick’s and my pop-culture rotted brains.
+
+Beyond that we managed to avoid all the obvious camping blunders.  Plus, it only briefly rained one night, saving everyone but me too much embarrassment for having not brought any sort of raincoats.  We also went on a couple of fun hikes in Cape Breton National Park, where I didn’t almost die by falling into a waterfall.
+
+Our trip was deliciously capped off with a two-night stop in Halifax, a city none of us had ever been too.  Despite the trepidation of knowing what attractions the city held for us, we plunged into a one-day, two-night stay during which we even managed to catch a movie (Pirates 2).  As it would turn out, Halifax is a charming city on the ocean that has just about everything a young urban semi-professional might want, including, but not limited to, a used/indie record shop on every corner, about 6 used bookstores using the piles-on-the-floor method of organization, a cool music instrument store and one gnarly comic book store.  Needless to say we were happy for a day.
+
+--
+
+Discuss this post on Twitter with #kapowell-ohca
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

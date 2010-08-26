@@ -1,0 +1,36 @@
+---
+layout: post
+title: Giverny and Rouen
+chapter: 
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+h2. {{ page.chapter }}
+
+p(meta). 16 November 2006 - {{ page.location }}
+
+So Emma said she would post some details about our trip a week and a half ago.  But between you a me, I don’t think Emma really knows how to log in, let alone post, to this site.  So now it’s my turn.
+
+We left Besancon via 1st class TGV an hour later than we were expecting — thank you so much day-light savings time — and discovering what peak-time means on the TGV (that’s why we had to travel 1st class).  If this were a novel I believe our surprise at the cost of our tickets to Paris might count as foreshadowing.  Indeed, trains have become qutie expensive, even with an under-25 discount.  So, with a creeping dread over transportation costs I climbed aboard the train and watched some beautiful French countryside fly past at 200 mph.  
+
+Here’s where I talk about how amazed I was at the agricultural state of much of France.  In my gut I feel like I knew a lot of France is farms — cheese and wine are both made on farms — but I hadn’t really put two and two together to make four.  So after being amazed at the countryside and transfering train stations in Paris we arrived at Vernon, the gateway to Giverny and Monet’s impressionist enclave.  
+
+Needless to say, Giverny was a cute and beautiful little town.  Given how late in the season we visited, we were delighted to see so many flowers still in bloom (including one, count it, one water lilly).  We ate lunch at one of Monet’s favorite haunts and sat next to three nice Americans from Florida who were being shown around by a Parisian friend of theirs.  The lunch was a delicious combination of roasted goat cheese for me and a stuffed crepe and vegetable soup for Emma. 
+
+We then set out to view Monet’s house and the impressionist art museum nearby.  The house was fascinating and, to my suprise, very livable.  It wasn’t garishly huge though it did have space for maybe 22 dinner guests at the dinning room table.  A place where one could be very comfortable just hanging out, which I suppose was the point of an artist colony … 
+
+Mistiming our bus back to Vernon we discovered the next train didn’t leave for Rouen for another four hours and so set off on foot to explore Vernon.  The result was discovering that the town had some really cool parks and a nice riverfront on the Seine.  We also got to see some Italian students playing chess on a giant chess board (something you see quite often in France).
+
+We arrived in Rouen after dark with no place to stay and discovered quickly that Sundays are a terrible time to try and find a hotel in France.  After some guide book misadventures, we found one that was open and had a room.  We counted our blessings and then set out to wander around Rouen and find some dinner.  
+
+In the thirteenth century, Joan of Arc was tried and burned in Rouen.  She was later made the patron saint of France so you’d better believe there’s a cathedral in Rouen with her name on it.  It wasn’t built, however, until the 1970’s and actually has a very weird post-modern swooping-roof thing going on.  We’ll post pictures because I just can’t describe it very well.  Speaking of which, we’ll post pictures of all this stuff really soon, I promise.  Rouen was a really interesting city that felt very much like Besancon to us, very livable.  The man at our hotel was fantastic and it seemed like the kind of place people who come through Rouen on business frequent.  When we came downstairs in the morning, one of the guests was having breakfast by himself and chatting with the owner as though they knew each other.  I liked it.
+
+Anyway, that was long.  I’ll continue in this vein until we’ve gone through our entire vacation (or maybe something better will come up before I’m done, you never know).  I’m really not a fan of these summary posts, I would much rather you could all have just joined us on our trip.  Oh well, there’s always a next time.
+
+--
+
+Discuss this post on Twitter with #kapowell-giv-rou
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

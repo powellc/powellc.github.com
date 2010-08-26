@@ -1,0 +1,25 @@
+---
+layout: post
+title: Sickness
+chapter: 
+location: Appleton, Wisconsin
+---
+
+h1. {{ page.title }}
+h2. {{ page.chapter }}
+
+p(meta). 13 June 2006 - {{ page.location }}
+
+I must preface this entry with my official position on sick time.  I consider myself to be a fairly moral person.  As such, I have a hard time using sick time unless I’m prohibited from leaving the house without a garbage can for “insurance.”  Despite this, I was left with a conundrum when Emma asked me if I wanted to go to her sister’s high school graduation.  Naturally, I wanted to, but I had recently burned my remaining vacation time on an event which was no doubt selfish — I said I was moral, not selfless.  On the other hand, I still had 137 hours of sick time available to me, and I also learned a few weeks ago that sick time is not paid out at employment termination.  Problem solved, right?
+
+Well, I used my sick time on Thursday with no major incidents and boarded a plane for Boston.  I still felt bad about calling in and nearly made myself ill trying to muster up the courage/shame to call my boss when I woke up.  Of course, this was only step one of a two step process.  On Friday I had to have Emma call him to explain that, “there is just no way he can come to work tonight.”  This, my friends, is deceptive language.  Emma loves it, and insists that it’s not nearly as bad as lying.  Really, at 8 PM on Friday there was no way I was making it to work by 10 PM from Boston.
+
+Well, apparently I nearly gave my boss an aneurysm with this second day of feigned sickness.  The whole time he did not know whether I was truely sick or not.  And, in a cruel twist of fate, our car was parked in a parking ramp for the weekend because of a broken window stuck in the down position.  This left my boss with the distinct impression that not only was I not sick, but I was also an awful liar and had driven somewhere.  Of course he was partly right, and I wasn’t about to correct the other part.  I just took the verbal “lashing” when I got back with the smug satisfaction that I only had to work four more days for the man.  I suppose a small amount of that satisfaction was also borne of the fact that I had bailed my boss out of numerous scheduling nightmares with my easy-going attitude and flexible schedule.
+
+Ultimately this all came down to the fact that my boss is not a terribly effective administrator and managed to paint himself into the proverbial corner such that any minor hiccup in the work order and all hell broke lose.  I should also note that this hell was contained entirely in my bosses head, as none of the other officers seemed all that irriated/worn out by having to pick up my two shifts.
+
+--
+
+Discuss this post on Twitter with #kapowell-sick
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

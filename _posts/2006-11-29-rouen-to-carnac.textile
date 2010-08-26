@@ -1,0 +1,22 @@
+---
+layout: post
+title: Rouen to Carnac
+chapter: 
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+h2. {{ page.chapter }}
+
+p(meta). 29 November 2006 - {{ page.location }}
+
+So to continue where I left off … We left Rouen for Mont-St-Michel, one of the major tourist sites in France, but one Emma and I knew very little about.  Arriving was a little bizarre because we were not really sure how to get from the train station to the mountain.  Vernon to Giverny was better advertised, though the longer we waited at the station the bigger the crowd going to MSM got and that made it fairly easy to find our way.  Mont-St-Michel is gorgeous, but even near the end of the season it was still absolutely packed with people.  After the sedate Bayeux Tapestry experience, the crowds at the church on the island made it difficult to hold back the cynicism.  Despite this, it was still a magnificant place to be and, while we wont be going back anytime soon, it was something that we both appreciated seeing.
+
+From Mont-St-Michel we took a bus directly to Rennes and stayed there long enough to catch a train to Vannes.  It was at this point Halloween, and walking around Vannes after treating ourselves to a delicious Atlantic seafood dinner was very festive.  There was a carnival in town (carnivals seem much more frequent and spur-of-the-moment in France) and there were even some people in costumes … weird.  In the morning we headed out for Carnac, and megalith site that rivals Stonehenge in it’s scale (it is at least a few miles of giant stones all tipped up on edge).  It being not exactly high season in Carnac, the bus was almost empty when it dropped us off in the middle of town.  With no idea where to go, we started walking towards where it looked like the stones were, thinking all the while that if there wasn’t some sort of visitor’s center to warm ourselves up we were screwed.  There was and we weren’t, and it actually became a really nice day.  It turns out if we had come at high season we would not have been able to walk amongst the rocks, and much better experience than it would have been to walk along the fence and peer in at them.  I have to run to class now, but the best is yet to come.
+
+--
+
+Discuss this post on Twitter with #kapowell-rou-car
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

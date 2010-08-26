@@ -1,0 +1,23 @@
+---
+layout: post
+title: Disc Golfing?
+chapter: 
+location: Appleton, Wisconsin
+---
+
+h1. {{ page.title }}
+h2. {{ page.chapter }}
+
+p(meta). 05 June 2006 - {{page.location}}
+
+A few days ago I completed my second-ever 100 Holes tournament in Appleton, WI.  It was originally concieved by a close friend of mine as an excuse to waste an afternoon and also test the endurance of local disc golf players.  Three years ago I was one of a handful that actually completed the round.  This year we had a marginally better eight people complete the tournament.  We only lost one to illness.
+
+The tournament started at 9:30 AM — of course it was supposed to begin at 8 — and lasted until 8 PM.  We had some really slow golfers on this outting and it probably didn’t need to take that long.  I seem to recall the last 100 Holes going until only about 5 or 6, but my memory is known for it’s holes.  At any rate, I finished second to last.  Having only played one other round of 18 holes of disc golf this season I don’t see that as too much of a failure.  Also, I think I finished about 37 over par.  An admirable score by my account.  Plus, there is plenty of room for improvment.  Set the bar low, that’s what I say!
+
+Waking up the next day I discovered that, while my driving arm hadn’t gotten tired the day of the tournament, I had, indeed, used it far too much.  The ache felt as though I had been punched repeatedly in the shoulder.  Maybe working my way up to 100 holes is a good goal for future years.  Of course I compounded the whole thing by going bowling on Sunday night, but what are you going to do?  Not bowl?  I don’t think so…
+
+--
+
+Discuss this post on Twitter with #kapowell-dg?
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

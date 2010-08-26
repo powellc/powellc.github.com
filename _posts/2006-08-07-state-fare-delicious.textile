@@ -1,0 +1,35 @@
+---
+layout: post
+title: State Fare . . . Delicious!
+chapter: 
+location: Appleton, Wisconsin
+---
+
+h1. {{ page.title }}
+h2. {{ page.chapter }}
+
+p(meta). 07 August 2006 - {{ page.location }}
+
+Yes, yes, yes.  All the things you’ve heard about the state fair of Wisconsin are true.  Food, animals and carnival rides abound.  And while the price for all is truely absurd, at least the food was worth it.  Let’s see, I think my Saturday went something like this: 
+ 
+# Duck Fajitas
+# Chocolate-covered Marshmallow
+# Wines of Wisconsin tasting
+# Heferweizen
+# Corn on the Cob
+# State Fair Cream Puff
+# Chicken Tamales
+# Funnel Cake
+
+I got to hang out with the new hall directors at Lawrence for a little while too, and I can heartily give my approval now.  And even though the carnival games were all corporate and not interested in a good haggling, Roman still won a panda bear for Dawn, which I believe is now called “Girlie.”  At least that’s what the people operating the games kept yelling at us.
+
+So after all the whistle-stopping, we didn’t get to say bye to nearly as many people as we’d of liked to, but it turns out very little can be accomplished when you’re in town for just one day. 
+
+Now Emma and I fly back to Boston on the 8th and get to say hi/bye to an old friend from back in the day at Lawrence and then start driving back up and see just a few more friends before settling into a routine for a month and a half up in Castine.
+
+--
+
+Discuss this post on Twitter with #kapowell-wsf
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

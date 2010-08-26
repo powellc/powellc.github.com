@@ -1,0 +1,24 @@
+---
+layout: post
+title: Nous sommes arrivés
+chapter: 
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+h2. {{ page.chapter }}
+
+p(meta). 26 September 2006 - {{ page.location }}
+
+After three planes, a bus, a train, one car, and a total of nearly 24 consecutive hours of travel, Colin and I arrived in Besancon last Wednesday night.  Though our initial entry was a little bumpy (that first night we were so apprehensive about what we had gotten ourselves into that Colin almost threw-up and I cried myself to sleep), we’ve had a week to get used to the city and are absolutely loving it.  We’ve been subsisting almost exclusively on baguettes, cheese, and $3 bottles of French wine, and are currently in the throes of apartment hunting (the high school where Colin is teaching has been kind enough to put us up free of charge in their student dormitories until we find a place of our own).  We have our first apartment viewing this afternoon and are trying not to let our enthusiasm get the better of us before we’ve actually seen the place.  We’ll let you know how it turns out, either way.
+
+Besançon (pronounced buhz-eh-ZOH) is absolutely charming.  The ancient stone buildings are set close together overlooking narrow stone-paved streets.  There are bakeries seemingly on every corner where you can buy your day’s bread or a chocolate croissant.  The French take their bread very seriously; so seriously, in fact, that, despite the fact that EVERYTHING closes on Sundays, the French goverment mandates that in every quasi-major city in the country there must be a bakery open every day of the week (you don’t hear us complaining!).  The government also subsidizes the cost of food, so we can get out of the local grocer’s with milk, juice, baguettes and cheese, a respectable bottle of wine, hummus, and a basket of fresh fruits and vegetables for less than $20.  There are outdoor cafes and garden parks thick with ivy and Roman ruins and, yes, Karen, there are Nutella crepes.
+
+We start work next Monday and until then are still exploring the city.  Photos from these first few days can be viewed at “Colin’s flickr account”:http://flickr.com/photos/powellc/tags/besancon/
+
+--
+
+Discuss this post on Twitter with #kapowell-france
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

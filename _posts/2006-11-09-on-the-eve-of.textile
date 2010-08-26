@@ -1,0 +1,24 @@
+---
+layout: post
+title: And on the eve of ...
+chapter: 
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+h2. {{ page.chapter }}
+
+p(meta). 09 November 2006 - {{ page.location }}
+
+With the congressional elections ongoing in the U.S., it becomes difficult to recount in vivid detail the wonderful week-long break Emma and I took recently.  Our trip took us through a lot of tourist spots in Normandy and Brittany; we visited Giverny, Bayeux, Mont-St-Michel, Vannes, Carnac, Quimper, and Pointe du Raz, in that order.  We saw many amazing things and a lot of France’s beautiful countryside by train.  Of course, there are pictures too.  
+
+And all this stuff will be noted and posted in time, but for now, because our lives have gotten quite hectic and we still don’t have Internet in our appartment, I just had to at least make mention of the elections.  While I actually consider myself somewhat of a conservative on fundamental issues, I must congratulate the Democratic party on a job well done.  This will make Bush a lame duck for the next year and a half and force him to actually address the flaws in his arguments and positions.  At least I hope.  Thank you to everyone who voted, and I’m ashamed to say it, but I didn’t vote absentee, mostly on account of not knowing which state to claim residency.  Oh well, thanks again, and this makes the 2008 elections that much more interesting.
+
+(Also, can I just say that I like Montana’s choice of Tester?  He seems like a great breath of fresh air.)
+
+--
+
+Discuss this post on Twitter with #kapowell-eve
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

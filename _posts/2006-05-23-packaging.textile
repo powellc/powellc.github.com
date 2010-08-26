@@ -1,0 +1,19 @@
+---
+layout: post
+title: Packaging 
+---
+
+h1. {{ page.title }}
+
+p(meta). 23 May 2006 - Appleton, Wisconsin
+
+It seems packing is a theme in my life these days. Well, to be fair packing is usually an activity the precedes moving, of which a number of people in my life are in the process currently.
+
+When I begin to move I am also bound to rediscover the beauty of Ebay. I accumulate a lot of redundant items over time. Multiple digital cameras, video game consoles that are never played and books — oh my, the books! As a result I’m left packing and packing, not just for myself, but for all my countless, and probably needless, things.
+
+--
+
+Discuss this post on Twitter with #kapowell-pack
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>
+

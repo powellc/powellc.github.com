@@ -1,0 +1,34 @@
+---
+layout: post
+title: Sofa difficulties
+chapter: 
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+h2. {{ page.chapter }}
+
+p(meta). 25 October 2006 - {{ page.location }}
+
+Emma and I have been quietly plugging away at our jobs, waiting for our couch to arrive.  We called Fly, the furniture store, last night to see where that couch may be (they told us it would arrive Wed. of last week) and the nice women on phone, after saying it four times too quickly, finally slowed down and said “You bought it on 6 October?  7 November.”  I understood that.  I wasn’t happy with it, but I understood it.
+
+So no couch until after our All Saint’s Day vacation.  But you know what, the joke is on Fly because we’re hoping to travel extensively over this vacation.  We don’t even need their stinking couch … at least until the 7th.
+
+And of course, worse things could have happened to us in France than a delay in sofa-delivery.  You have to think of the positives.  Emma and I have begun taking Sunday walks through the, as expected, beautiful parks in Besançon.  Our neighborhood also gets more and more delicious with each new road we explore.  
+
+We also recently completed the process to set in motion our resident alien cards (these allow us to work, and by extension get paid, in France).  Any time you approach one of these “paperwork sessions” in France you have to hold your breath, because you just never know what they might ask for which you might not have.  The door swings both ways, of course.  I only had two photocopies of my birth certificate, and they wanted one original and one copy.  The lady took one look at the beat-up photocopy from, it would appear, 1982 and had no trouble accepting it as the original.  
+
+So things are looking up and slowing down here in Besançon and our thoughts are now turning to travel and friends.  It’s hard to think about traveling when you’re still getting settled, but as our apartment begins to feel more like home, we are beginning to think about venturing outside its walls to places like Dijon, Paris or even Greece.  Also, the thought of having our families and friends visit us keeps us warm in our, as of yet, unheated apartment (the heaters are electric and apparently just burn through money; Meriby, you would be proud to see us bundled up in our own house).
+
+There are no new photos, as we keep forgetting to bring the camera with us on our walk, plus its hard to just keep showing photos of one city without feeling a little redundant.  That should all change as we begin seeing some other cities in the area.  Speaking of which, on the 7th of November we will be venturing to Strasbourg (in France still) with a school trip and will have an opportunity to visit the European Union Parliament building and a Kronenburg brewery … Yes, they’re taking high school kids on a field trip to a beer factory.  We’re very excited as this is an all-expenses paid day-trip!  
+
+(Also, Drew, I saw an add in the paper the other day for the European release of the Wii and let out a little gasp, which drew Emma’s attention, and then her disgust.  It saddens me that we haven’t budgeted for such things …  oh, well.)
+
+So everything is going smoothly here, I hope all of you are doing well wherever you find yourselves, and to our family and friends, Emma and I send our love.
+
+--
+
+Discuss this post on Twitter with #kapowell-sofa
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

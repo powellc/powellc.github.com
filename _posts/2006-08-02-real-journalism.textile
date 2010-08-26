@@ -1,0 +1,22 @@
+---
+layout: post
+title: Real Journalism
+chapter: 
+location: Appleton, Wisconsin
+---
+
+h1. {{ page.title }}
+h2. {{ page.chapter }}
+
+p(meta). 02 August 2006 - {{ page.location }}
+
+Well, maybe.  I’ve gotten a job writing freelance copy for a local paper this summer in Maine.  It’s a tiny paper with a circulation of 1500 and it was a novice piece on the new library catalog system, but it has been published.  If you promise not to laugh you can read the article at the “Castine Patriot”:http://www.castinepatriot.com website.  Its a bit dry, but what are you going to do; it’s about a library for god’s sake.  Emma should also have an article appearing this Thursday (the 3rd).
+
+On a side note, Emma and I, today, completed our first stop on our Midwest whistle-stop tour.  Indiana is just as hot as Boston was, but I did manage to play a little bit of summer league ultimate.  Plus, we still have one almost-complete day to spend tomorrow.  Then it’s up to Chicago to visit the French consulat, up to Appleton to visit friends, down to Milwaukee for the State Fair, down to St. Charles to visit parents and siblings, then back, via air travel, to Boston and eventually back up to Maine.  Hopefully it’s all completed safely.
+
+--
+
+Discuss this post on Twitter with #kapowell-realj
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

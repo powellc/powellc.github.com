@@ -1,0 +1,28 @@
+---
+layout: post
+title: Real work
+chapter: 
+location: Besançon, France
+---
+
+h1. {{ page.title }}
+h2. {{ page.chapter }}
+
+p(meta). 04 October 2006 - {{ page.location }}
+
+Yesterday, Emma and I began our period of observation.  The lyceés and the primary schools are doing things a little bit differently though.  Emma was sitting in on a class with all the other primary school assistants in the city while I was simply moving from class to class by myself and watching the teachers teach.
+
+The observation period is to allow us a chance to learn the level at which the students we will eventually assist with/teach are with their English.  Emma was surprised to find her student understood quite a bit more than she expected, and I, except for one class, was surprised the other way.  Either way, the jobs don’t seem impossibly difficult — full of challenges, sure, but not impossible.
+
+There are some photos from the faculty lounge of my school as well as the apartment which we are hoping to have moved into by Friday.  Perhaps there will be another post detailing the lesser-of-many-evils choice which that entailed.  (Seriously though, it wasn’t that bad, and it’s a great apartment.)
+
+“Colin’s flickr account”:http://flickr.com/photos/powellc/
+
+*Addendum:*  _Emma felt that lesser-of-many-evils gave the impression that our final decision was a compromise, when in reality the apartment is really great.  I only meant to say that when apartment hunting, and I’m fairly sure this is true in most cases, we wound up having to narrow the apartments down based on the quality of their negatives.  For example, we found a nice furnished apartment in the old town, but it wasn’t a true two room apartment as advertised.  The one we finalized on is fantastic, but it is unfurnished and on the fifth floor without an elevator.  These are negatives we can live with and were, in fact, the lesser of the negatives from the other four apartments we looked at.  Also, it is reasonably priced and the landlord is the second nicest man we’ve met yet in France (the first being Mr Marie, the intendant (aka business administrator) at Jules Haag).  Enjoy your weekend everyone, and forget I ever had to write this addendum, things are great._
+
+--
+
+Discuss this post on Twitter with #kapowell-realwork
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>

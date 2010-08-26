@@ -1,0 +1,26 @@
+---
+layout: post
+title: Pieces come together
+chapter: 
+location: Appleton, Wisconsin
+---
+
+h1. {{ page.title }}
+h2. {{ page.chapter }}
+
+p(meta). 12 September 2006 - {{ page.location }}
+
+Slowly our plans for France are becoming more concrete.  Often it is happening quicker than we would like, but I suppose if things like insurance were up to me I’d never actually get around to paying for it.  
+
+The summer is winding down and I only have two more articles to write for Penobscot Bay Press before my tenure with them is over.  My boss has been so accommodating and nice that Emma and I are planning on bringing some baked goods over to Stonington tomorrow (the 13th) to thank him and say our goodbyes.  
+
+I made my first contact with an English teacher at Jules Haag.  Her English is excellent and she has asked if I know anything about physics because one of her classes is also taking physics lessons in English.  I can only assume this means they speak better English than I do.  So now I need to brush up on my high school physics and French.
+
+T minus 7 days till we leave, and I can’t wait, if only to get the transition over with and grow comfortable with living in Besançon.
+
+--
+
+Discuss this post on Twitter with #kapowell-pieces
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>
