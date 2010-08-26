@@ -9,7 +9,8 @@ h1. {{ page.title }}
 
 p(meta). 16 August 2010 - {{ page.location }}
 
-A recent blog post from an ex-Engine Yard employee set the "blogosphere" (god I hate that word) afire recently as concerns the use of Emacs archrival, Vim, the improved Vi text editor.
+A recent blog post from an ex-Engine Yard employee set the "blogosphere" (god I hate that word) afire recently as concerns the use of Emacs arch-rival, Vim, the improved Vi text editor.
+
 I will admit to being easily blown by the prevailing winds, and I mothballed Textmate and set about to learn Vim for about the 3rd time. A while back I had decided Emacs was for me. I used it for about a year until the novelty wore off and I wanted to get work done. I switched back to Textmate and got lazy. I had been using it as a glorified notepad for a while. And then Ezra's post showed up.
 
 Thankfully this bug bit me at a time when I am also crazy interested in workflow. I am in the process of formalizing some side projects into an actual side business designing websites and providing small businesses with IT support. So now I have to manage website release iterations, track tickets, squash bugs and keep track of an ever-growing to-do list.
