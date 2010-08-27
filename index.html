@@ -17,7 +17,7 @@ location: Castine, Maine
         <li><span class="new">NEW</span><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
       {% else %}
         <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
+      {% endif %}
     {% endfor %}
   </ul> 
 </div> 
