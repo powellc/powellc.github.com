@@ -206,11 +206,11 @@ ul.posts {
   }
 
 
-.new { 
+.latest { 
    font-size:smallest;
    color:#a00;
    font-weight:bold;
    padding:3px;
    margin-right:5px;
-   border:1px solid #eee;
+   border:1px solid #aaa;
 }
