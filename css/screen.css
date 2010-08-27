@@ -65,12 +65,12 @@ table {
 }
 
 .new { 
-   font-size:50%;
+   font-size:smallest;
    background:#ffa;
    color:#fff;
-   padding:5px;
+   padding:3px;
    margin-right:10px;
-   border:1px solid #aaa;
+   border:1px solid #eee;
 }
 
 ul.posts {
