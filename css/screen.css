@@ -64,6 +64,12 @@ table {
 #home { 
 }
 
+.new { 
+   font-size:50%;
+   background:#333;
+   color:white;
+}
+
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
