@@ -213,4 +213,7 @@ ul.posts {
    padding:3px;
    margin-right:5px;
    border:1px solid #aaa;
+   display:inline;
 }
+
+.first { padding-bottom:10px; }
