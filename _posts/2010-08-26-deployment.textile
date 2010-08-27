@@ -21,7 +21,7 @@ My django deployment process has been evolving for a while, and this was the fir
 
 The moves have also, and this is the point of this whole post, demonstrated how much smoother things get with frequency. And I am a person who loves smoothness. I know plenty of people who leave a mess behind them whenever they do something, but I like everything neat and tidy. I've finally found ways to setup a VPS, install the needed packages, and deploy whatever service I am hoping to run, be it web app, email, or git hosting.
 
-Perhaps I'll do some posts about the various server setups at some point...
+Perhaps I'll do some posts about the various server setups at some point, or maybe not.
 
 --
 
