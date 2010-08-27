@@ -3,7 +3,6 @@ layout: post
 title: Packaging
 chapter: Banalities of life 
 location: Appleton, Wisconsin
-slug: pack
 ---
 
 h1. {{ page.title }}
