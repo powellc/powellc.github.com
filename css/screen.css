@@ -80,14 +80,6 @@ ul.posts {
     font-size: 80%;
   }
 
-.new { 
-   font-size:smallest;
-   background:#a00;
-   color:white;
-   padding:3px;
-   margin-right:5px;
-   border:1px solid #eee;
-}
 
 /*****************************************************************************/
 /*
@@ -212,3 +204,13 @@ ul.posts {
   #related h2 {
     margin-bottom: 1em;
   }
+
+
+.new { 
+   font-size:smallest;
+   color:#a00;
+   font-weight:bold;
+   padding:3px;
+   margin-right:5px;
+   border:1px solid #eee;
+}
