@@ -66,10 +66,10 @@ table {
 
 .new { 
    font-size:smallest;
-   background:#ffa;
-   color:#fff;
+   background:#a00;
+   color:white;
    padding:3px;
-   margin-right:10px;
+   margin-right:5px;
    border:1px solid #eee;
 }
 
