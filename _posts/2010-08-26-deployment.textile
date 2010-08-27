@@ -1,0 +1,31 @@
+---
+layout: post
+title: Deployment
+chapter: On Tech
+location: Castine, Maine
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 26 August 2010 - {{ page.location }}
+
+One thing I have discovered over the past month is that successful deployment is the result of having to do it many, many times. I remember a story about how Michael Jordan used to visualize taking jump shots to improve his form because the mere act of thinking about the perfect shot helps your body perform the perfect shot.
+
+I've been shuffling servers around for the past week. Part of it is migrating away from Slicehost which, despite still providing a great service, has not managed to keep up with it's chief competitors. There are plenty of "places":http://forum.slicehost.com/comments.php?DiscussionID=4348 to hear about how SH has dropped the ball recently. While they still provide good services in many respects, their price/features ratio just dropped below what I'm comfortable with.
+
+Drama of VPS hosts aside, the switch to Linode and away from some of the "low-end boxes":http://lowendbox.com I've been using has meant getting really familiar with my various setups. From "Django":http://djangoproject.com for most of my client projects, to "Rails":http://rubyonrails.org for "Teambox":http://teambox.com and good old PHP for "RoundCube":http://roundcube.net and "Pwiki":http://pwiki.org, there are a lot of moving parts. Thankfully the deployment process seems to be getting less painful.
+
+My django deployment process has been evolving for a while, and this was the first test of how flexible it is as I had to move four sites to the new VPS. The method worked admirably and I may do a post on it eventually (though in fairness it's just cobbled together from a number of other methods people have already put forward). 
+
+The moves have also, and this is the point of this whole post, demonstrated how much smoother things get with frequency. And I am a person who loves smoothness. I know plenty of people who leave a mess behind them whenever they do something, but I like everything neat and tidy. I've finally found ways to setup a VPS, install the needed packages, and deploy whatever service I am hoping to run, be it web app, email, or git hosting.
+
+Perhaps I'll do some posts about the various server setups at some point...
+
+--
+
+Discuss this post on Twitter with #kapowell-deploy
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>
