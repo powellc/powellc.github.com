@@ -64,14 +64,6 @@ table {
 #home { 
 }
 
-.new { 
-   font-size:smallest;
-   background:#a00;
-   color:white;
-   padding:3px;
-   margin-right:5px;
-   border:1px solid #eee;
-}
 
 ul.posts {
   list-style-type: none;
@@ -87,6 +79,7 @@ ul.posts {
     font-family: Monaco, "Courier New", monospace;
     font-size: 80%;
   }
+
 
 /*****************************************************************************/
 /*
@@ -211,3 +204,16 @@ ul.posts {
   #related h2 {
     margin-bottom: 1em;
   }
+
+
+.latest { 
+   font-size:smallest;
+   color:#a00;
+   font-weight:bold;
+   padding:3px;
+   margin-right:5px;
+   border:1px solid #aaa;
+   display:inline;
+}
+
+.first { padding-bottom:10px; }

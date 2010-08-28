@@ -14,7 +14,9 @@ location: Castine, Maine
   <ul class="posts">
     {% for post in site.posts %}
       {% if forloop.first %}
-        <li><span class="new">NEW</span><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        <li>Latest</li>
+        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        <li>Archives</li>
       {% else %}
         <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endif %}
