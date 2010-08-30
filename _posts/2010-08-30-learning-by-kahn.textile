@@ -1,0 +1,21 @@
+---
+layout: post
+title: Learning by Kahn 
+chapter: Banalties of Life 
+location: Castine, Maine
+---
+
+h1. {{ page.title }}
+
+p(meta). 30 August 2010 - {{ page.location }}
+
+Have you heard of "Kahn Academy":http://www.kahnacademy.org ? You should, at least if you have an interest in learning some of the most basic (and often mildly advanced) math and science principals. An ex-hedge fund manager sits in his Silicon Valley home and scribbles math problems by scribbling on a surface that is really no more advanced than MS Paint.
+
+The thing about it: He's really, really clear, doesn't try to be cute, and helps you understand. Oh, and his videos follow standard school curricula so you can follow along and practicaly move through a high school algebra or pre-calculus class in front of your computer.
+
+This is great.
+
+--
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>
+
