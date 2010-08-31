@@ -1,0 +1,19 @@
+---
+layout: post
+title: The Sun Sets in Castine
+chapter: Banalties of Life 
+location: Castine, Maine
+---
+
+h1. {{ page.title }}
+
+p(meta). 31 August 2010 - {{ page.location }}
+
+Walking down Water Street yesterday the sunlight was not to be believed. I had other things to do and places to be, so I didn't really get any very go positions to capture it on the water. Regardless, I think they capture well one of my favorite times of year, as summer meets fall.
+
+!http://farm5.static.flickr.com/4136/4942963745_7df8602a22.jpg!    
+
+--
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>
+
