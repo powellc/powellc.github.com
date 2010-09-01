@@ -1,0 +1,33 @@
+---
+layout: post
+title: Food safety
+chapter: Harvests 
+location: Castine, Maine
+---
+
+h1. {{ page.title }}
+
+p(meta). 01 September 2010 - {{ page.location }}
+
+A hearty welcome to September. This being the beginning of what was once a very exciting and important season in most American cities, I feel the need to address a cancerous growth on this country: the consolidation of our rights to food.
+
+Thanks to "Commissioner Marc Sarnoff":http://foodfreedom.wordpress.com/2010/07/11/miami-commissioner-marc-sarnoff-proposes-jail-for-feeding-homeless/ of Miami, Florida for sparking this fire.
+
+Much like a war on terrorism implicitly requires government control over individual liberties related to population movement, a war on unsafe or harmful food requires government control over individual liberties related to food movement. In Miami, and elsewhere in the country as the article linked above points out, it is now, or will soon, be illegal to feed the homeless without a government license. So help you god if you hand over your leftovers to someone as you exit a restaurant. That's an offense that could carry a hefty penalty.
+
+The best part of the whole argument is that food safety is largely being used as a bait-and-switch to cure affluent communities of the homeless problem. I'm personally not sure which is worse. But I can tell you that being honest about not wanting someone begging on your corner would be far better than legislating away human generosity.
+
+The problem with masquarading a solution to homelessness with a call to keep people safe from the potential of bad food is that it provides false testimony in the case against the free exchange of food. It presupposes that the poor homeless people, having no way to vet the quailty of food given to them, might fall victim to the horrors of malice or ignorance. In the process, it builds a wall to providing one of the most basic needs to those most in need.
+
+Believe me, no one wants to see a homeless shelter, run without a government license, to serve tained food and have everyone fall ill and possibly die. But the problem is that his happens even in the presence of impressive government oversight. Ignorant or malicious people will find a way.
+
+In the meantime, the individual right to food is trod under foot. In the article linked above, the author makes a loose list of the rights that have already been taken away, largely because the American people are losing touch with producers and with their faith in the quality of their food. 
+
+The solution to this problem, as I see it, will not be easy. Corporate farms and commoditized food has worn a deep rut through our culture, and most people will not be comfortable leaving. But how many egg recalls do we have to watch to realize that you cannot legislate safe food? Government oversight can fall victim to the same mechanisms a small farmer can, namely underfunding and ignorance. The only difference is in the scope of the problems they create. 
+
+Keep food on small farms and with local distributors and a village, county or state may fall victim to sanitation issues from time to time, but the country as a whole will continue to sustain itself. Know thy farmer, know thy food. That's what I say.
+
+--
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>
+
