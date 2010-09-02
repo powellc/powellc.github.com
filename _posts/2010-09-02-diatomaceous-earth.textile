@@ -1,0 +1,23 @@
+---
+layout: post
+title: Diatomaceous earth 
+chapter: Timberwyck
+location: Castine, Maine
+---
+
+h1. {{ page.title }}
+
+p(meta). 02 September 2010 - {{ page.location }}
+
+Our cat has worms. He eats a lot of dead things. Things he has killed. They're probably not great for him, then again we don't really have a mouse problem anymore. But now we have a worm problem. So, DE to the rescue.
+
+To those of you not in the know, DE is a type of sedimentary rock that is responsible for much of the world's atmospheric dust. Eons ago, when much of the world was submerged, tiny grasses coverd much of the shallows. When this stuff all died -- and there was a lot of it -- layers of rock that once were confused with limestone were left. 
+
+What does this mean for us, here in the 21st century? Well, it turns out that DE, being microsopic and wicked jagged on it's edges, makes for a beautifully deadly powder to tiny insects. What insects it does not affect with it's jaggedness, it sufocates, as it is also colossaly porous and, as a result, dehydrating. While the jagged edges are far too small to affect macro animals like us, or dogs, we can see the effects of it on our skin. Just stick your hand in a barrel of DE, I dare you. Your hands will feel awful and dry for the rest of the day.
+
+Despite the adverse reactions to your hands, DE is a wonderful substance. Our pigs, sheep, goats and cats are eating it right now. Some people even swear by a glass of water with a teaspoon mixed in before each meal. Our pigs are already looking healtier, and hopefully our cat can kick this tapeworm.
+
+--
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>
+
