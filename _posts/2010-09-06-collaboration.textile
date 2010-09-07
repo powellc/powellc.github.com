@@ -1,0 +1,25 @@
+---
+layout: post
+title: Collaboration 
+chapter: On Tech
+location: Castine, Maine
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 06 September 2010 - {{ page.location }}
+
+Since I started a web development and tech consulting business a few months ago, one thing that became rapidly apparent was the difficulty managing a complex and changing project using only email, phone and meetings to coordinate, especially when the client is not within easy driving distance.
+
+The problem is, phones interrupt the day. Very few people are masters of the one-issue-and-hang-up routine, and so phone calls often devolve into catch-up sessions, when they were only supposed to be about business. Emails back and forth work alright, but it's difficult to manage responsibility when the best you can come up with is, "I think I mentioned that back in August..." Lastly, in-person meetings, while wonderful, are also a bit of a time sink, taking at least as much time to organize and get to as the amount of work they usually accomplish.
+
+That said, each of these communication styles have their pluses. I'm not saying I've found a solution that replaces them, but I have finally found something that strikes a middle ground very well. The answer? "Teambox":http://teambox.com 
+
+Effectively, it's an open-source version of "Basecamp":http://basecamphq.com . That's the best part. I've often admired basecamp, but 1) it's pay-to-play, and I was never sure I'd actually use it and 2) I much prefer to own my data and manage my own backups, thank you very much. So now I've got an installation of teambox running on one of VPS boxes, and I couldn't be happier. I only wish I could get some of my previous clients on board, but the need is just not that great.
+
+--
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>
