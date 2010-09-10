@@ -1,0 +1,25 @@
+---
+layout: post
+title: Old skool
+chapter: Banalties of Life
+location: Castine, Maine
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 09 September 2010 - {{ page.location }}
+
+I'm rocking out to Goldfinger this evening. You know, the ska/punk/alt-rock band from the late 90s... Yeah, according to "wikipedia":http://en.wikipedia.org/wiki/Goldfinger_(band) they're still recording, but I don't believe it. They reached their apex to me on their debut album with tracks like "King for a Day" and "Here in Your Bedroom." 
+
+Rocking out to music that I listened to in middle school gives me pause to wonder what the word "better" really means. Has better music been produced since Goldfinger and the rest of the corral of ska/punk bands I listened to when I was knee-high to a grasshopper? Sure, why not? Do I listen to more "sophisticated" music now? Probably not. I'm a bigger fan of bluegrass and true country music than I was back then. But I still like to rock out to Bad Religion, Sex Pistols, Op Ivy, Ruth Ruth, Animal Chin, and, alas, even Goldfinger. The music hasn't gotten worse.
+
+Which, of course, begs the questions of whether art can be qualitatively better or worse than art that came before it. Most intelligent people (and people who think too much) will realize the nonsense of that question. A quick tour through "Zen and the Art of Motorcycle Maintenance":http://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance could do a 500% better job of explaining my point. But for the sake of brevity, I'll just say that quality, that is, better-or-worse-than comparisons, serves to unravel the order of human conciousness.
+
+Needless to say, the above rant is only loosely related to punk music. Mostly it serves to underscore why I still love rocking out to music I listened to when I was 16. 'Cause it rocks, obviously. Now get outta my way. Here comes Reel Big Fish!
+
+--
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>
