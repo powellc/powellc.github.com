@@ -1,0 +1,27 @@
+---
+layout: post
+title: Django media test files solved
+chapter: Technically Unimportant 
+location: Castine, Maine
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 12 October 2010 - {{ page.location }}
+
+For a while now I've been working on some fairly involved projects at work. In fact, they are all loosly coupled django applications. When I want to test the site, I load up whatever applications I'm working on, syncdb and runserver. Things work pretty well, now, but that's only becuase I finally figured out what to do with my static files.
+
+By static files, I mean applications files that are uploaded as a result of user inputs. Static css and images are easy and never too big. But when you're submitting a 20-photo gallery as test data, we don't want that to wind up in the git repository.
+
+Enter Dropbox. While I tend to like to roll my own solutions to technical problems, dropbox is really too slick to pass up. Whether I'm developing on my Dell mini10 or the iMac at the office, all I have to do is wire up a few symlinks from my dropbox project media folder to my working media folder for the given application and voila, all my fixtures work like a charm.
+
+I'm sure there are other ways to set this up, more svelt for sure. But this is a trillion times better than storing them in the repository and at least ten times better than scp-ing tarballs across my various development boxes.
+
+More on my django development environment in another post.
+
+--
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>
