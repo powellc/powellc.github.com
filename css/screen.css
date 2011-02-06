@@ -206,7 +206,8 @@ ul.posts {
     margin-bottom: 1em;
   }
 
-#post img { border: 1px solid #ccc;
+#post img { border: 1px solid #ccc; float:left; padding:10px 10px 10px 0; }
+p img { border: 1px solid #ccc; float:left; padding:10px 10px 10px 0; }
 
 .latest { 
    font-size:smallest;
