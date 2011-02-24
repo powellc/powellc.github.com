@@ -1,0 +1,35 @@
+---
+layout: post
+title: Finn the Dog
+chapter: Family
+location: Castine, Maine
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 23 February 2011 - {{ page.location }}
+
+So we may or may not be adding a member to the family. Okay, we are, but it's easier to swallow if it's still only a possibility and not a certainty. We took Finnegan for a test drive today, hiking up Blue Hill mountain. It was a beautiful, clear day for a hike and the path had been well worn by other hikers before us. Barring our ignorance of proper picking-up-after-your-dog etiqutte, the whole day was a smashing success.
+
+Peter and Sam are up visiting us for February break as well, so they got some exercise and we call got some quality time together not spent watching a movie. It was great.
+
+<img src="http://kapowell.com/images/2011/02/finn-peter-colin.jpg" width=300 />
+
+Finn is a labradoodle, though his current owners noted that neither the hypoallergenic nor the non-shedding elements of the poodle came through. What did come through are massivly tall legs. Apparently his father, the poodle part, was huge, and Finn is too. He's one of the tallest dogs I've seen short of a great dane. 
+
+He has plenty of energy, and hopefully will do well on the farm. Actually, one of our bigger fears about having a dog on the farm was allayed by, of all things, a chance encounter on the trail. A fellow, whom we know through other means, was walking his two dogs and explained how he doesn't have leashes, but instead a little shock collar connected to a remote control. Now, everyone has their own moral feelings about shock collars, but I grew up with three dogs and an invisible fence, and I can honestly tell you that while it's painful the first time they learn, it's not so much a pain issue after that as a respect. Anyway, the remote allows you to give them varying degrees of shock as a reminder to stay near you, avoid other dogs, or, in our case, stay out of the road. Personally I'd much rather have Finn take a mild shock to the neck than get hit by a car.
+
+Regardless, we have a back up plan of just keeping him in the backyard. And since our backyard is actually 3 acres of pasture, it should be more than enough entertainment. We'll see what we end up with. In the meantime, we'll be picking him up after a jaunt out to Chicago to visit Baba and Papaw, a trip which Emma and I are really excited about.
+
+An now, a few more photos from our adventure today:
+
+<img src="http://kapowell.com/images/2011/02/finn-and-family.jpg" width=500 />
+
+<img src="http://kapowell.com/images/2011/02/peter-and-jane.jpg" width=500 />
+
+--
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>
