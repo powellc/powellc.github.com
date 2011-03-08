@@ -18,6 +18,7 @@ html, body {
 body {
   background-color: white;
   font: 13.34px 'Kreon', helvetica, arial, clean, sans-serif;
+  text-shadow: 1px 1px 4px #444;
   *font-size: small;
   text-align: center;
 }
@@ -41,6 +42,15 @@ p {
 
 a {
   color: #00a;
+  -webkit-transition-property: color, #fff;
+  -webkit-transition-duration: 0.25s, 0.25s;
+  -webkit-transition-timing-function: linear, ease-in;
+  -moz-transition-property: color, #fff;
+  -moz-transition-duration: 0.25s, 0.25s;
+  -moz-transition-timing-function: linear, ease-in;
+  transition-property: color, #fff;
+  transition-duration: 0.25s, 0.25s;
+  transition-timing-function: linear, ease-in;
 }
 
 a:hover {
