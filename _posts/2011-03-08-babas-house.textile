@@ -1,0 +1,27 @@
+---
+layout: post
+title: Baba's House
+chapter: Family
+location: Chicago, Illinois
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 08 March 2011 - {{ page.location }}
+
+!http://kapowell.com/images/2011/03/jane-and-nori.jpg!
+
+We just got back from a visit to Baba's house in Chicago. Lacking the means to take a quick trip out on our own and lacking the time to take a long trip out, my mom graciously helped us with the flight, all we had to do was bring Jane, and ourselves, I suppose. But really Jane was the big attraction. On our end, we also got to see Nori, Jane's cousin, who is almost exactly 11 months older. Jane and Nori got along swimmingly. Nori also provided a wonderful preview of where Jane is headed.
+
+!http://kapowell.com/images/2011/03/nori-eating.jpg!
+
+All in all, the trip was wonderful. We got to hang out and chat a lot. Checked out the Lincoln Park Zoo on a beautifully overcast, but balmy, March day, visited with some old college friends briefly, saw Papaw very briefly out in the burbs, and finally walked around and took a ton of photos at the Garfield Park Conservatory with my niece, sister, brother and brother-in-law.
+
+!http://kapowell.com/images/2011/03/baba-and-nori.jpg!
+
+--
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>
