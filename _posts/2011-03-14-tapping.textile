@@ -1,0 +1,23 @@
+---
+layout: post
+title: Tapping
+chapter: Maine
+location: Castine, Maine
+---
+
+h1. {{ page.title }}
+
+h2. {{ page.chapter }}
+
+p(meta). 14 March 2011 - {{ page.location }}
+
+So our humble first attempts at tapping birch trees were a failure this year. That is to say, we only failed for the time being. Seems birch and maple do not keep the same schedules. This is a good thing, as it happens.
+
+After scouring the woods across the road from our house, we finally managed to positively identify one maple by the leaves on the ground. That set a big machine in motion, as we can now tell maples from oaks at a pretty good distance. With nothing impedding our tapping endeavour now, we managed to find a stand of about six maples on our own property and likely plenty more as we throughly investigate our neighbors property with our new found knack for spotting true maples.
+
+So we sank some taps this evening, eight by my count. We'll pick up more and, though we're late in the season, if we even get two or three full barrels from these taps (each holding a gallon) that will likely at least meet our maple syrup consumption for the year. Pretty cool, really. Now, to find a way to efficiently turn 40 gallons of sap into 1 gallon of syrup...
+
+--
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative 
+Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>
